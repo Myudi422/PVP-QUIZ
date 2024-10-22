@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "Who is the main character in Naruto?",
+      "image": "https://example.com/naruto.png",
+      "options": ["Sasuke", "Kakashi", "Naruto", "Sakura"],
+      "correct_answer": "Naruto"
+    },
+    {
+      "question": "What is the name of the pirate crew in One Piece?",
+      "image": "https://example.com/onepiece.png",
+      "options": ["Whitebeard Pirates", "Blackbeard Pirates", "Straw Hat Pirates", "Red Hair Pirates"],
+      "correct_answer": "Straw Hat Pirates"
+    },
+    {
+      "question": "Who is the protagonist in Attack on Titan?",
+      "image": "https://example.com/attackontitan.png",
+      "options": ["Eren Yeager", "Levi Ackerman", "Mikasa Ackerman", "Armin Arlert"],
+      "correct_answer": "Eren Yeager"
+    },
+    {
+      "question": "What is the name of Goku's ultimate transformation in Dragon Ball Super?",
+      "image": "https://example.com/goku.png",
+      "options": ["Super Saiyan", "Ultra Instinct", "Kaioken", "Super Saiyan God"],
+      "correct_answer": "Ultra Instinct"
+    },
+    {
+      "question": "What is the demon fox sealed inside Naruto called?",
+      "image": "https://example.com/kyuubi.png",
+      "options": ["Shukaku", "Matatabi", "Kurama", "Gyuki"],
+      "correct_answer": "Kurama"
+    }
+  ]
+}
